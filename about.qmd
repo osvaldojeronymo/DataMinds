@@ -1,3 +1,47 @@
 ---
 title: "About"
+about:
+  template: trestles
+  image: https://images.unsplash.com/photo-1687894986611-c116bcb6a400?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/osvaldo-jeronymo-neto/
+      target: "_blank"
+    - icon: github
+      text: Github
+      href: https://github.com/osvaldojeronymo
+      target: "_blank"
 ---
+:::{#hero-heading}
+
+## Professional Summary
+
+With over 18 years of professional experience, I am a Coordinator at Caixa Econômica Federal (CAIXA), where I have honed crucial skills such as analytical capability and agile management. I contribute to CAIXA's mission and objectives through these competencies, bringing a diverse perspective and a commitment to operational excellence. My Master's degree in Planning and Public Governance, combined with a passion for technology, allows me to innovate in logistics, operations, and procurement, always aligned with CAIXA's values and culture.
+
+## Education
+
+<u>Federal University of Technology - Paraná</u> | **(UTFPR)**
+
+**Master's** in Planning and Public Governance | 2021 - 2023
+
+<u>Federal University of Paraná</u> | **(UFPR)**
+
+**MBA** in Strategic Management | 2018 - 2020
+
+<u>Pontifical Catholic University of Paraná</u> | **(PUC/PR)**
+
+**Specialist** in Occupational Safety Engineering | 2009 - 2010
+
+<u>State University of Londrina</u> | **(UEL)**
+
+**Bachelor's** in Electronic Engineering | 1997 - 2004
+
+<u>Expected Completion</u>: **2025**
+
+***Specialization in Data Science and Big Data*** 
+
+Federal University of Paraná | **(UFPR)**
+
+
+:::

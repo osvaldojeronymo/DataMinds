@@ -1,0 +1,4 @@
+---
+title: "statistical_inference"
+author: "Osvaldo Jeronymo Neto"
+---

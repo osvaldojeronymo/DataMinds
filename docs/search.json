@@ -2,15 +2,99 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "DataMinds",
+    "title": "DSBD",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Software infrastructure\nShell scripting for task automation\nOperating system structures\nCommunication infrastructure\nNetwork application concepts\nWeb protocols\nCloud computing\nHigh-performance infrastructure\nParallelism and distribution\nComputational clusters\nJob submission and control in clusters\n\n\n\n\n\nIntroduction to Differential and Integral Calculus\n\nFunctions, limits, and continuity\nDerivatives and integrals\n\nApplied Linear Algebra\n\nVectors and matrices\nSolving linear systems\nSolving non-linear systems\n\nOptimization\n\nLinear programming\nQuadratic programming\nNon-linear programming\n\nIntroduction to Probability and Random Variables\n\nProbability distributions\nExpectation, variance, and covariance\nAsymptotic results and applications\n\nParadigms and Elements of Statistical Inference\n\nEstimation and evidence functions\nConfidence intervals and hypothesis testing\nSimulation-based inference\n\n\n\n\n\n\nIntroduction and setup of programming environments (R and Python)\nArithmetic and logical operations\nControl structures and loops\nObject-oriented programming and functions\nData reading and manipulation\nAccessing databases\nData acquisition from the internet (web scraping)\nExploratory analysis and interactive data visualization"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "With over 18 years of professional experience, I am a Coordinator at Caixa Econômica Federal (CAIXA), where I have honed crucial skills such as analytical capability and agile management. I contribute to CAIXA’s mission and objectives through these competencies, bringing a diverse perspective and a commitment to operational excellence. My Master’s degree in Planning and Public Governance, combined with a passion for technology, allows me to innovate in logistics, operations, and procurement, always aligned with CAIXA’s values and culture.\n\n\n\nFederal University of Technology - Paraná | (UTFPR)\nMaster’s in Planning and Public Governance | 2021 - 2023\nFederal University of Paraná | (UFPR)\nMBA in Strategic Management | 2018 - 2020\nPontifical Catholic University of Paraná | (PUC/PR)\nSpecialist in Occupational Safety Engineering | 2009 - 2010\nState University of Londrina | (UEL)\nBachelor’s in Electronic Engineering | 1997 - 2004\nExpected Completion: 2025\nSpecialization in Data Science and Big Data\nFederal University of Paraná | (UFPR)"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "DataMinds",
+    "section": "",
+    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "DataMinds",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "Federal University of Technology - Paraná | (UTFPR)\nMaster’s in Planning and Public Governance | 2021 - 2023\nFederal University of Paraná | (UFPR)\nMBA in Strategic Management | 2018 - 2020\nPontifical Catholic University of Paraná | (PUC/PR)\nSpecialist in Occupational Safety Engineering | 2009 - 2010\nState University of Londrina | (UEL)\nBachelor’s in Electronic Engineering | 1997 - 2004\nExpected Completion: 2025\nSpecialization in Data Science and Big Data\nFederal University of Paraná | (UFPR)"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "about.html#expected-completion-2025",
+    "href": "about.html#expected-completion-2025",
+    "title": "About",
+    "section": "",
+    "text": "Specialization in Data Science and Big Data Federal University of Paraná (UFPR), Curitiba,"
+  },
+  {
+    "objectID": "about.html#professional-summary",
+    "href": "about.html#professional-summary",
+    "title": "About",
+    "section": "",
+    "text": "With over 18 years of professional experience, I am a Coordinator at Caixa Econômica Federal (CAIXA), where I have honed crucial skills such as analytical capability and agile management. I contribute to CAIXA’s mission and objectives through these competencies, bringing a diverse perspective and a commitment to operational excellence. My Master’s degree in Planning and Public Governance, combined with a passion for technology, allows me to innovate in logistics, operations, and procurement, always aligned with CAIXA’s values and culture."
+  },
+  {
+    "objectID": "index.html#computational-infrastructure-60-hrs",
+    "href": "index.html#computational-infrastructure-60-hrs",
+    "title": "DataMinds",
+    "section": "",
+    "text": "Software infrastructure\nShell scripting for task automation\nOperating system structures\nCommunication infrastructure\nNetwork application concepts\nWeb protocols\nCloud computing\nHigh-performance infrastructure\nParallelism and distribution\nComputational clusters\nJob submission and control in clusters"
+  },
+  {
+    "objectID": "index.html#statistical-inference-for-data-science-60-hrs",
+    "href": "index.html#statistical-inference-for-data-science-60-hrs",
+    "title": "DataMinds",
+    "section": "",
+    "text": "Introduction to Differential and Integral Calculus\n\nFunctions, limits, and continuity\nDerivatives and integrals\n\nApplied Linear Algebra\n\nVectors and matrices\nSolving linear systems\nSolving non-linear systems\n\nOptimization\n\nLinear programming\nQuadratic programming\nNon-linear programming\n\nIntroduction to Probability and Random Variables\n\nProbability distributions\nExpectation, variance, and covariance\nAsymptotic results and applications\n\nParadigms and Elements of Statistical Inference\n\nEstimation and evidence functions\nConfidence intervals and hypothesis testing\nSimulation-based inference"
+  },
+  {
+    "objectID": "index.html#programming-languages-for-data-science-60-hrs",
+    "href": "index.html#programming-languages-for-data-science-60-hrs",
+    "title": "DataMinds",
+    "section": "",
+    "text": "Introduction and setup of programming environments (R and Python)\nArithmetic and logical operations\nControl structures and loops\nObject-oriented programming and functions\nData reading and manipulation\nAccessing databases\nData acquisition from the internet (web scraping)\nExploratory analysis and interactive data visualization"
+  },
+  {
+    "objectID": "index.html#computational-infrastructure",
+    "href": "index.html#computational-infrastructure",
+    "title": "DSBD",
+    "section": "",
+    "text": "Software infrastructure\nShell scripting for task automation\nOperating system structures\nCommunication infrastructure\nNetwork application concepts\nWeb protocols\nCloud computing\nHigh-performance infrastructure\nParallelism and distribution\nComputational clusters\nJob submission and control in clusters"
+  },
+  {
+    "objectID": "index.html#statistical-inference-for-data-science",
+    "href": "index.html#statistical-inference-for-data-science",
+    "title": "DSBD",
+    "section": "",
+    "text": "Introduction to Differential and Integral Calculus\n\nFunctions, limits, and continuity\nDerivatives and integrals\n\nApplied Linear Algebra\n\nVectors and matrices\nSolving linear systems\nSolving non-linear systems\n\nOptimization\n\nLinear programming\nQuadratic programming\nNon-linear programming\n\nIntroduction to Probability and Random Variables\n\nProbability distributions\nExpectation, variance, and covariance\nAsymptotic results and applications\n\nParadigms and Elements of Statistical Inference\n\nEstimation and evidence functions\nConfidence intervals and hypothesis testing\nSimulation-based inference"
+  },
+  {
+    "objectID": "index.html#programming-languages-for-data-science",
+    "href": "index.html#programming-languages-for-data-science",
+    "title": "DSBD",
+    "section": "",
+    "text": "Introduction and setup of programming environments (R and Python)\nArithmetic and logical operations\nControl structures and loops\nObject-oriented programming and functions\nData reading and manipulation\nAccessing databases\nData acquisition from the internet (web scraping)\nExploratory analysis and interactive data visualization"
   }
 ]
