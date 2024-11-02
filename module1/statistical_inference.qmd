@@ -2,3 +2,26 @@
 title: "statistical_inference"
 author: "Osvaldo Jeronymo Neto"
 ---
+
+# Module I - Foundations for Data Science and Big Data
+
+## Statistical Inference for Data Science
+- Introduction to Differential and Integral Calculus
+  - Functions, limits, and continuity
+  - Derivatives and integrals
+- Applied Linear Algebra
+  - Vectors and matrices
+  - Solving linear systems
+  - Solving non-linear systems
+- Optimization
+  - Linear programming
+  - Quadratic programming
+  - Non-linear programming
+- Introduction to Probability and Random Variables
+  - Probability distributions
+  - Expectation, variance, and covariance
+  - Asymptotic results and applications
+- Paradigms and Elements of Statistical Inference
+  - Estimation and evidence functions
+  - Confidence intervals and hypothesis testing
+  - Simulation-based inference

@@ -2,3 +2,18 @@
 title: "computational_infrastructure"
 author: "Osvaldo Jeronymo Neto"
 ---
+
+# Module I - Foundations for Data Science and Big Data
+
+## Computational Infrastructure
+- Software infrastructure
+- Shell scripting for task automation
+- Operating system structures
+- Communication infrastructure
+- Network application concepts
+- Web protocols
+- Cloud computing
+- High-performance infrastructure
+- Parallelism and distribution
+- Computational clusters
+- Job submission and control in clusters

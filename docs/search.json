@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "DSBD",
+    "title": "Welcome to DataMinds",
     "section": "",
-    "text": "Software infrastructure\nShell scripting for task automation\nOperating system structures\nCommunication infrastructure\nNetwork application concepts\nWeb protocols\nCloud computing\nHigh-performance infrastructure\nParallelism and distribution\nComputational clusters\nJob submission and control in clusters\n\n\n\n\n\nIntroduction to Differential and Integral Calculus\n\nFunctions, limits, and continuity\nDerivatives and integrals\n\nApplied Linear Algebra\n\nVectors and matrices\nSolving linear systems\nSolving non-linear systems\n\nOptimization\n\nLinear programming\nQuadratic programming\nNon-linear programming\n\nIntroduction to Probability and Random Variables\n\nProbability distributions\nExpectation, variance, and covariance\nAsymptotic results and applications\n\nParadigms and Elements of Statistical Inference\n\nEstimation and evidence functions\nConfidence intervals and hypothesis testing\nSimulation-based inference\n\n\n\n\n\n\nIntroduction and setup of programming environments (R and Python)\nArithmetic and logical operations\nControl structures and loops\nObject-oriented programming and functions\nData reading and manipulation\nAccessing databases\nData acquisition from the internet (web scraping)\nExploratory analysis and interactive data visualization"
+    "text": "Welcome to my personal website where I share my journey and projects in Data Science and Big Data.\nLearn more about me →\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html",
@@ -94,6 +94,69 @@
     "objectID": "index.html#programming-languages-for-data-science",
     "href": "index.html#programming-languages-for-data-science",
     "title": "DSBD",
+    "section": "",
+    "text": "Introduction and setup of programming environments (R and Python)\nArithmetic and logical operations\nControl structures and loops\nObject-oriented programming and functions\nData reading and manipulation\nAccessing databases\nData acquisition from the internet (web scraping)\nExploratory analysis and interactive data visualization"
+  },
+  {
+    "objectID": "module1/computational_infrastructure.html",
+    "href": "module1/computational_infrastructure.html",
+    "title": "computational_infrastructure",
+    "section": "",
+    "text": "Software infrastructure\nShell scripting for task automation\nOperating system structures\nCommunication infrastructure\nNetwork application concepts\nWeb protocols\nCloud computing\nHigh-performance infrastructure\nParallelism and distribution\nComputational clusters\nJob submission and control in clusters"
+  },
+  {
+    "objectID": "module1/statistical_inference.html",
+    "href": "module1/statistical_inference.html",
+    "title": "statistical_inference",
+    "section": "",
+    "text": "Introduction to Differential and Integral Calculus\n\nFunctions, limits, and continuity\nDerivatives and integrals\n\nApplied Linear Algebra\n\nVectors and matrices\nSolving linear systems\nSolving non-linear systems\n\nOptimization\n\nLinear programming\nQuadratic programming\nNon-linear programming\n\nIntroduction to Probability and Random Variables\n\nProbability distributions\nExpectation, variance, and covariance\nAsymptotic results and applications\n\nParadigms and Elements of Statistical Inference\n\nEstimation and evidence functions\nConfidence intervals and hypothesis testing\nSimulation-based inference"
+  },
+  {
+    "objectID": "module1/programming_languages.html",
+    "href": "module1/programming_languages.html",
+    "title": "programming_languages",
+    "section": "",
+    "text": "Introduction and setup of programming environments (R and Python)\nArithmetic and logical operations\nControl structures and loops\nObject-oriented programming and functions\nData reading and manipulation\nAccessing databases\nData acquisition from the internet (web scraping)\nExploratory analysis and interactive data visualization"
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Welcome to DataMinds",
+    "section": "Introduction",
+    "text": "Introduction\nWelcome to my personal website where I share my journey and projects in Data Science and Big Data."
+  },
+  {
+    "objectID": "module1/computational_infrastructure.html#computational-infrastructure",
+    "href": "module1/computational_infrastructure.html#computational-infrastructure",
+    "title": "computational_infrastructure",
+    "section": "",
+    "text": "Software infrastructure\nShell scripting for task automation\nOperating system structures\nCommunication infrastructure\nNetwork application concepts\nWeb protocols\nCloud computing\nHigh-performance infrastructure\nParallelism and distribution\nComputational clusters\nJob submission and control in clusters"
+  },
+  {
+    "objectID": "module1/statistical_inference.html#statistical-inference-for-data-science",
+    "href": "module1/statistical_inference.html#statistical-inference-for-data-science",
+    "title": "statistical_inference",
+    "section": "",
+    "text": "Introduction to Differential and Integral Calculus\n\nFunctions, limits, and continuity\nDerivatives and integrals\n\nApplied Linear Algebra\n\nVectors and matrices\nSolving linear systems\nSolving non-linear systems\n\nOptimization\n\nLinear programming\nQuadratic programming\nNon-linear programming\n\nIntroduction to Probability and Random Variables\n\nProbability distributions\nExpectation, variance, and covariance\nAsymptotic results and applications\n\nParadigms and Elements of Statistical Inference\n\nEstimation and evidence functions\nConfidence intervals and hypothesis testing\nSimulation-based inference"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Send me a note {{< fa feather-pointed >}}",
+    "section": "",
+    "text": "Send me a note {{&lt; fa feather-pointed &gt;}}\nYou can use this form to contact me about speaking engagements, collaborations, or simply to say hello.\nI also love hearing if my educational materials have been helpful for you, and how they could be improved — particularly if they could be made more accessible {{&lt; bi heart-fill &gt;}}\n{{&lt; fa universal-access &gt;}} {{&lt; bi substack &gt;}} {{&lt; fa brands github &gt;}} {{&lt; fa brands linkedin &gt;}} {{&lt; fa brands mastodon &gt;}} {{&lt; ai orcid &gt;}} {{&lt; ai google-scholar &gt;}}\n\n\n\n\n\n\n\n\nFull Name \nEmail Address \nMessage\n\n\nSend message\n\n\n\n\n\nSign-up for my newsletter {{&lt; bi substack &gt;}}\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.\n\n{{&lt; fa brands creative-commons 2xl &gt;}} {{&lt; fa brands creative-commons-by 2xl &gt;}} {{&lt; fa brands creative-commons-sa 2xl &gt;}}\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "module1/programming_languages.html#programming-languages-for-data-science",
+    "href": "module1/programming_languages.html#programming-languages-for-data-science",
+    "title": "programming_languages",
     "section": "",
     "text": "Introduction and setup of programming environments (R and Python)\nArithmetic and logical operations\nControl structures and loops\nObject-oriented programming and functions\nData reading and manipulation\nAccessing databases\nData acquisition from the internet (web scraping)\nExploratory analysis and interactive data visualization"
   }

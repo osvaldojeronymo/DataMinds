@@ -3,3 +3,15 @@ title: "programming_languages"
 author: "Osvaldo Jeronymo Neto"
 format: revealjs
 ---
+
+# Module I - Foundations for Data Science and Big Data
+
+## Programming Languages for Data Science
+- Introduction and setup of programming environments (R and Python)
+- Arithmetic and logical operations
+- Control structures and loops
+- Object-oriented programming and functions
+- Data reading and manipulation
+- Accessing databases
+- Data acquisition from the internet (web scraping)
+- Exploratory analysis and interactive data visualization

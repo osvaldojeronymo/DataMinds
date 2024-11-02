@@ -1,49 +1,20 @@
 ---
-title: "DSBD"
+title: "Welcome to DataMinds"
+pagetitle: "Osvaldo Jeronymo Neto, Msc"
+about:
+  template: marquee
+  image: "https://github.com/osvaldojeronymo/DataMinds/raw/main/allison-saeng-IrOxSqcaNrQ-unsplash.jpg"
+  image-alt: "A group of laptops on a table"
 ---
 
-# Module I - Foundations for Data Science and Big Data
+::: {#hero-heading}
 
-## Computational Infrastructure
-- Software infrastructure
-- Shell scripting for task automation
-- Operating system structures
-- Communication infrastructure
-- Network application concepts
-- Web protocols
-- Cloud computing
-- High-performance infrastructure
-- Parallelism and distribution
-- Computational clusters
-- Job submission and control in clusters
+Welcome to my personal website where I share my journey and projects in Data Science and Big Data.
 
-## Statistical Inference for Data Science
-- Introduction to Differential and Integral Calculus
-  - Functions, limits, and continuity
-  - Derivatives and integrals
-- Applied Linear Algebra
-  - Vectors and matrices
-  - Solving linear systems
-  - Solving non-linear systems
-- Optimization
-  - Linear programming
-  - Quadratic programming
-  - Non-linear programming
-- Introduction to Probability and Random Variables
-  - Probability distributions
-  - Expectation, variance, and covariance
-  - Asymptotic results and applications
-- Paradigms and Elements of Statistical Inference
-  - Estimation and evidence functions
-  - Confidence intervals and hypothesis testing
-  - Simulation-based inference
+[Learn more about me &rarr;](about.qmd){.about-links .subtitle}
 
-## Programming Languages for Data Science
-- Introduction and setup of programming environments (R and Python)
-- Arithmetic and logical operations
-- Control structures and loops
-- Object-oriented programming and functions
-- Data reading and manipulation
-- Accessing databases
-- Data acquisition from the internet (web scraping)
-- Exploratory analysis and interactive data visualization
+:::
+
+<!-- hero-heading -->
+
+

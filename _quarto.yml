@@ -4,12 +4,34 @@ project:
 
 website:
   title: "DataMinds"
+  site-url: https://osvaldojeronymo.github.io/DataMinds/
+  description: "Msc in Planning and Public Governance"
+  page-navigation: true
+  back-to-top-navigation: true
+  twitter-card:
+    creator: "@osvaldojeronymo"
+    site: "@osvaldojeronymo"
+    card-style: summary_large_image
+  comments: 
+    utterances: 
+      repo: jeronymo/neto 
+      label: utterances
+      theme: body-light
+      issue-term: title  
   navbar:
     left:
       - text: "Home"
         href: index.qmd
       - text: "About"
         href: about.qmd
+page-footer:  
+    left: >-
+     2024 Osvaldo Jeronymo Neto; Made with [Quarto](https://quarto.org)
+    center: |
+      <a class="link-dark me-1" href="https://substack.com/@osvaldojeronymoneto" title="Substack" target="_blank"<a>
+      <a class="link-dark me-1" href="https://github.com/osvaldojeronymo" title="github" target="_blank"</a>
+      <a class="link-dark me-1" href="https://www.linkedin.com/in/osvaldo-jeronymo-neto/" title="LinkedIn" target="_blank"</a>
+
 format:
   html:
     theme: cosmo
